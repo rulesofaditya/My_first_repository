@@ -1,3 +1,7 @@
 I have added something in First branch
+I am from first branch
+Making a new change from the branch
+lets see it works from the branch
 I am from the main branch 
 Lets see its working from the main branch
+
